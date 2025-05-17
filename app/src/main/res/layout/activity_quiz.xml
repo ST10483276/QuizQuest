@@ -22,7 +22,7 @@
             app:layout_constraintStart_toStartOf="parent"
             app:layout_constraintTop_toTopOf="parent" />
 
-        <!-- True Button -->
+        
         <Button
             android:id="@+id/BtnTrue"
             android:layout_width="110dp"
@@ -35,7 +35,7 @@
             app:layout_constraintStart_toStartOf="parent"
             app:layout_constraintTop_toBottomOf="@id/questions_textView" />
 
-        <!-- False Button -->
+        
         <Button
             android:id="@+id/BtnFalse"
             android:layout_width="123dp"
@@ -48,7 +48,7 @@
             app:layout_constraintStart_toEndOf="@id/BtnTrue"
             app:layout_constraintTop_toBottomOf="@id/questions_textView" />
 
-        <!-- Next Button -->
+        
         <Button
             android:id="@+id/Btn_next"
             android:layout_width="wrap_content"
