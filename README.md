@@ -69,8 +69,7 @@ The workflow ensures that my project is automatically built and tested every tim
 ### App Screenshots:
 [Screenshot 1](Welcome screen.png)
 *Caption for screenshot 1: Home screen
-
-
+https://github.com/ST10483276/QuizQuest/blob/master/Questions%20screen.png
 
 [Screenshot 2](Questions screen.png)
 *Caption for screenshot 2: quiz screen question 1
