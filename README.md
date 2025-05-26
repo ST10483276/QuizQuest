@@ -73,7 +73,7 @@ https://github.com/ST10483276/QuizQuest/blob/master/Questions%20screen.png
 
 [Screenshot 2](Questions screen.png)
 *Caption for screenshot 2: quiz screen question 1
-https://github.com/ST10483276/QuizQuest/blob/master/Questions%20screen.png
+https://github.com/ST10483276/QuizQuest/blob/master/Welcome%20screen.png
 
 ### Video Demo:
 A video showcasing the app's functionality can be viewed here: https://youtu.be/Wal_NhjdY0Q .
